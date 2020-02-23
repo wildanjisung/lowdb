@@ -8,9 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "test": {
     "userId": 1,
     "id": 1,
