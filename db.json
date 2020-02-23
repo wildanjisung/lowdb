@@ -12,10 +12,8 @@
     "name": "typicode"
   },
   "test": {
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "tahu"
-    }
+    "userId": 1 
+    "id": 1,
+    "title": "tahu"
   }
 }
